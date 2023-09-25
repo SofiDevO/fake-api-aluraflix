@@ -5,6 +5,8 @@ const middlewares = jsonServer.defaults()
 
 // Set default middlewares (logger, static, cors and no-cache)
 server.use(middlewares)
+server.use(router)
+
 
 // Add custom routes before JSON Server router
 server.get('/echo', (req, res) => {
