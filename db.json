@@ -7,10 +7,10 @@
       "id": "25"
     },
     {
-      "id": "26",
+      "descripcion": "esta es la categoría de WordPress 🦉",
       "nombre": "wordpress",
       "color": "#FFBA05",
-      "descripcion": "Esta es una descripcion de la categoria"
+      "id": "26"
     },
     {
       "id": "3256",
@@ -29,8 +29,13 @@
       "nombre": "React",
       "color": "#00ffd5",
       "id": "59804be1-bb35-426b-8db8-42fe3a2b52dc"
+    },
+    {
+      "descripcion": "Categoria para os videos de css",
+      "nombre": "CSS",
+      "color": "#ff0000",
+      "id": "be3535fe-da7a-4f44-ba25-1bdacf2bb0d9"
     }
-   
   ],
   "videos": [
     {
@@ -406,6 +411,50 @@
         "color": "#7b00e0"
       },
       "id": "8c0c2d45-7363-46e6-870f-4d6cfe73e3e0"
+    },
+    {
+      "metadescription": "Acaban de salir los resultados de la encuesta de State of CSS y estan son 5 nuevas funcionalidades que están disponibles para usar en tu sitio o aplicación web.\n",
+      "title": "5 NUEVAS PROPIEDADES CSS QUE LO CAMBIARÁN TODO",
+      "embedId": "CgHJR8wqnIU",
+      "img": "CgHJR8wqnIU",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "e0dc5a20-f8fd-4c62-9dc2-df6c9b220e1c"
+    },
+    {
+      "metadescription": "Vamos a construir 20 proyectos completos con CSS, para que puedas practicar más del lenguaje y aprendas algunos trucos sobre animaciones, 3D, layouts, selectores avanzados y más. #css #tutoriales #desarrolloweb\n",
+      "title": "🔥 20 PROYECTOS COMPLETOS CON CSS",
+      "embedId": "XZTt1NFDnDw",
+      "img": "XZTt1NFDnDw",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "558ce7fa-87f3-4988-a6e3-3a7ce5125694"
+    },
+    {
+      "metadescription": "Cree 3 ejemplos de cuadrículas CSS receptivas para dominar los conceptos básicos de este poderoso sistema de diseño. https://github.com/fireship-io/224-an...\n",
+      "title": "The Joy of CSS Grid - Cree 3 diseños receptivos bellamente simples",
+      "embedId": "705XCEruZFs",
+      "img": "705XCEruZFs",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "4aa9b670-e5a9-4dc4-920e-99e9eefb529a"
+    },
+    {
+      "metadescription": "En este tutorial, vas a aprender a dibujar formas con CSS con un ejercicio muy fácil de aprender y replicar. Este tutorial es parte de un curso completo de HTML5 y CSS3 en Platzi. \n",
+      "title": "Dibujando con CSS",
+      "embedId": "IP3OmWpUuIg",
+      "img": "IP3OmWpUuIg",
+      "categoria": {
+        "nombre": "CSS",
+        "color": "#ff0000"
+      },
+      "id": "c8667563-683b-41f0-b30b-8bc5e3d74df0"
     }
   ]
 }
