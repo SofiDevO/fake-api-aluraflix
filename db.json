@@ -94,6 +94,28 @@
       "embedId": "RwBcNPybF4Q"
     },
     {
+      "id": "3296sdd556442",
+      "title": "ERRORES Comúnes en Wordpress (y Cómo Evitarlos!)",
+      "metadescription": "Estos son algunos de los errores que más se repiten en Wordpress y cómo solucionarlos correctamente. Desde los más básicos hasta algunos un poco más avanzados.\n\nTe voy a explicar porqué es importante no caer en estos errores y te voy a nombrar los que más problemas te pueden causar, para evitarlos completamente.",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "9uqsfIxppfI",
+      "embedId": "9uqsfIxppfI  "
+    },
+    {
+      "id": "3296556442",
+      "title": "Como CREAR UNA PAGINA WEB EN WORDPRESS DESDE CERO 2023 TUTORIAL",
+      "metadescription": "✅ Como CREAR UNA PAGINA WEB en WORDPRESS - TUTORIAL para principiantes ✅\nEn este tutorial / curso completo y gratis, aprenderás a crear o hacer tu sitio web en Wordpress para tu negocio o empresa desde cero (Tutorial para principiantes) usando Elementor y Astra.\n\n Iremos paso a paso creando la web y sin saber nada de códigos o de programación",
+      "categoria": {
+        "nombre": "wordpress",
+        "color": "#FFBA05"
+      },
+      "img": "FACbOhT3QNg",
+      "embedId": "FACbOhT3QNg"
+    },
+    {
       "id": "6",
       "title": "Curso de wordpress 1",
       "metadescription": "primeros pasos con Local Wordpress.\n\n Aprenderás a instalar Wordpress de forma local y hacer tus primeras configuraciones.",
@@ -400,17 +422,6 @@
         "color": "#00ffd5"
       },
       "id": "a4ba537f-189f-429c-8b48-89dcde4165d1"
-    },
-    {
-      "metadescription": " Cafe punto Tech: ¿Por que las empresas buscan especialistas en Javascript?\n",
-      "title": " Cafe punto Tech: ¿Por que las empresas buscan especialistas en Javascript?",
-      "embedId": "1Nk2FfJFig2Y",
-      "img": "1Nk2FfJFig2Y",
-      "categoria": {
-        "nombre": "alura",
-        "color": "#7b00e0"
-      },
-      "id": "8c0c2d45-7363-46e6-870f-4d6cfe73e3e0"
     },
     {
       "metadescription": "Acaban de salir los resultados de la encuesta de State of CSS y estan son 5 nuevas funcionalidades que están disponibles para usar en tu sitio o aplicación web.\n",
